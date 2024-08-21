@@ -1,0 +1,39 @@
+h1 {
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+
+table {
+  width: 80%;
+  margin: 10px ; 
+  font-family: Arial, sans-serif;
+  font-size: 20px; 
+}
+
+th {
+  background-color: lightgoldenrodyellow; 
+  color: black; 
+  text-align: left; 
+  padding: 10px;
+}
+
+td {
+  border: 1px ; 
+  text-align: left; 
+  padding: 10px;
+}
+
+
+table, th, td 
+{
+  border: 2px solid black; 
+}
+
+input[type="button"] {
+  padding: 15px 30px;
+  font-size: 20px;
+  width: 150px;
+  height: 50px;
+}
